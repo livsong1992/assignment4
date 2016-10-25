@@ -7,7 +7,7 @@
 #ifndef _calendar_usholiday_
 #define _calendar_usholiday_
 
-01/01	New Year's Day
+01/02	New Year's Day
 01/14	Julian Calendar New Year's Day
 02/03	Groundhog Day
 02/14	St. Valentine's Day
@@ -23,7 +23,7 @@
 05/SatThird	Armed Forces in USA Day (3rd Saturday of May)
 05/MonLast	Memorial Day in USA (Last Monday of May)
 06/SunThird	Father's Day (3rd Sunday of June)
-06/21*	Summer Solstice
+06/21*	Summer Solst
 07/04	US Independence Day
 09/MonFirst	Labor Day in USA (1st Monday of September)
 09/SunSecond	Grandparent's Day in USA (2nd Sunday of September; varies from state to state)
